@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome 👋
+
+While alive
+   (a) Learning()
+   (b) Continuous improvement()
+   (c) If alive != true
+   (d) Check aftermath()
+   (e) Break
 
 <!--
 **Spec7re/Spec7re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
