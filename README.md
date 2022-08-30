@@ -7,6 +7,9 @@ While alive <br/>
 &ensp;&ensp;&ensp;(d) Break <br/>
 (e) Check aftermath( ghost ) <br/>
 
+![](https://komarev.com/ghpvc/?username=Spec7re)
+
+
 <!--
 **Spec7re/Spec7re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Spec7re&show_icons=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Spec7re&show_icons=true&hide_title=true"> -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spec7re&layout=compact"> -->
